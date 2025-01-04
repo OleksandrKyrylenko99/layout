@@ -1,0 +1,71 @@
+{
+    "collection":[
+        {
+            "name": "living",
+            "image":"img/all-furniture/04.jpg",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/04.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/04@2x.jpg"
+                }
+            ]
+        },
+        {
+            "name": "kitchen",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/02.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/02@2x.jpg"
+                }
+            ]
+        },
+        {
+            "name": "dining",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/03.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/03@2x.jpg"
+                }
+            ]
+        },
+        {
+            "name": "office",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/01.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/01@2x.jpg"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/05.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/05@2x.jpg"
+                }
+            ]
+        },
+        {
+            "name": "hallway",
+            "image_urls":[
+                {
+                    "1x": "img/all-furniture/06.jpg"
+                },
+                {
+                    "2x": "img/all-furniture/06@2x.jpg"
+                }
+            ]
+        }
+    ]
+}
